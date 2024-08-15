@@ -1,5 +1,8 @@
 package com.ravishworks.Entity;
 
+import org.springframework.stereotype.Component;
+
+@Component
 public class Product {
 
 	private Integer productId;
